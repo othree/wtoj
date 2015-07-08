@@ -1,0 +1,23 @@
+{
+  "name": "wtoj",
+  "version": "1.0.0",
+  "description": "WebIDL to JSON",
+  "bin": "bin/wtoj",
+  "dependencies": {
+    "webidl2": "https://github.com/othree/webidl2.js/tarball/moz"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othree/wtoj.git"
+  },
+  "author": "othree <othree@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/othree/wtoj/issues"
+  },
+  "homepage": "https://github.com/othree/wtoj#readme"
+}
